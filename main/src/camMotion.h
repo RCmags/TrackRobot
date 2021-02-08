@@ -1,5 +1,5 @@
 #include <arduino.h>
-#include "C:\Users\bobby\Desktop\US College\ISU - Cardinal Mining club\Code\Tracked robot testbed\Individual classes\adns3080_sensor\ADNS3080.h"
+#include "ADNS3080.h"
 
 #ifndef camMotion_h
 #define camMotion_h
