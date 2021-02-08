@@ -1,8 +1,8 @@
 #include <arduino.h>
 
 // Vector and quaternions
-#include "C:\Users\bobby\Desktop\US College\ISU - Cardinal Mining club\Code\Tracked robot testbed\Individual classes\vector_datatype\vector_type.h"
-#include "C:\Users\bobby\Desktop\US College\ISU - Cardinal Mining club\Code\Tracked robot testbed\Individual classes\vector_datatype\quaternion_type.h"
+#include "vector_type.h"
+#include "quaternion_type.h"
 
 #ifndef trackVehicleModel_h
 #define trackVehicleModel_h
