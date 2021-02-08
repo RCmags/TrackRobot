@@ -274,8 +274,4 @@ class imuCompFilter {
     }
 };
 
-#undef QUAT_DIM 
-#undef VEC_DIM 
-#undef INV_Q_VAL
-
 #endif
