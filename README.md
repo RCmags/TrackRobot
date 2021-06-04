@@ -14,4 +14,4 @@ Below one can see the behavior of a vehicle using this sketch:
 
 <img src = "/images/tank1_res.jpg" width = "30%" height = "30%"> <img src = "/images/tank2_res.jpg" width = "30%" height = "30%"> <img src = "/images/tank3_res.jpg" width = "30%" height = "30%">  
 
-<img src = "/images/inclined_plane.gif" width = "30%" height = "30%"> <img src = "/images/zip_zag.gif" width = "30%" height = "30%">
+<img src = "/images/inclined_plane.gif" width = "30%" height = "30%"> <img src = "/images/zip_zag.gif" width = "30%" height = "30%"> <img src = "/images/disturbance.gif" width = "30%" height = "30%">
