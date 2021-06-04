@@ -1,5 +1,5 @@
 #include <arduino.h>
-#include "ADNS3080.h"
+#include <ADNS3080.h>
 
 #ifndef camMotion_h
 #define camMotion_h
