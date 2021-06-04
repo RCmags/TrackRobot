@@ -10,7 +10,7 @@ The position of the vehile is estimated using a physical model of the vehicle, a
 
 The coordinates are stored in a buffer that can be filled in real time via a bluetooth module. Coordinates can be pushed or poped off the buffer. Once the vehicle is within a given radius of a coordinate, the following coodinate is made the target destination. This process will continue indefinitely and the vehicle will follow a closed path with the coordinates as the vertices. 
 
-Below one can see the behavior of a vehicle using this sketch:  
+Below is a small vehicle using this sketch:  
 
 <img src = "/images/tank1_res.jpg" width = "31%"> <img src = "/images/tank2_res.jpg" width = "31%"> <img src = "/images/tank3_res.jpg" width = "31%">  
 
