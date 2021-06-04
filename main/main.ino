@@ -51,7 +51,7 @@ trackVehicleModel <REV_COUNT, &XCM_A, &XCM_B, &DIAM_A, &DIAM_B,
                   
                   
 //----------------    MPU6050 sensor    ----------------
-#include "src/basicMPU6050.h"
+#include <basicMPU6050.h>
 
 #define         AX_OFFSET       552
 #define         AY_OFFSET       -241
@@ -70,7 +70,7 @@ basicMPU6050<6, 1, 0,
 
             
 //----------------  IMU Sensor Fusion   ----------------
-#include "src/imuCompFilter.h"
+#include <imuCompFilter.h>
 
 constexpr float GAIN_GYRO   =   0.1;
 
