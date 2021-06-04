@@ -10,5 +10,5 @@ The position of the vehile is estimated using a mixture of a model of the vehicl
 
 Once the vehicle is within a given radius of a coordinate, the following coodinate is made the target destination. This process will continue indefinitely and the vehicle will follow a closed path with the coordinates as the vertices. The coordinates are stored in a buffer that can be filled in real time via a bluetooth module. Coordinates can be pushed or poped off the buffer.  
 
-The following gifs illustrate the behavior of a vehicle using sketch:
+The following gifs illustrate the behavior of a vehicle using sketch:  
 <img src = "/images/inclined_plane.gif" width = "30%" height = "30%"> <img src = "/images/zip_zag.gif" width = "30%" height = "30%">
