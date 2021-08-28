@@ -12,6 +12,6 @@ The coordinates are stored in a buffer that can be filled in real time via a blu
 
 Below is a small vehicle using this sketch:  
 
-<img src = "/images/tank1_res.jpg" width = "31%"> <img src = "/images/tank2_res.jpg" width = "31%"> <img src = "/images/tank3_res.jpg" width = "31%">  
+<img src = "/images/tank1_res.jpg" width = "30%"> <img src = "/images/tank2_res.jpg" width = "30%"> <img src = "/images/tank3_res.jpg" width = "30%">  
 
-<img src = "/images/inclined_plane.gif" width = "33%"> <img src = "/images/disturbance.gif" width = "27%"> <img src = "/images/zip_zag.gif" width = "33%">
+<img src = "/images/inclined_plane.gif" height = "30%"> <img src = "/images/disturbance.gif" width = "30%"> <img src = "/images/zip_zag.gif" width = "30%">
