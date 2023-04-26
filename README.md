@@ -1,4 +1,4 @@
-# Autonomous tracked Robot 
+# Autonomous tracked Robot :tractor: :checkered_flag:
 This is a large arduino sketch for a stracked vehicle capable of driving itself to different waypoints. It is composed of multiple header files and a main.ino file. The code is intended for an __Arduino MEGA__. 
 
 ## How it works
