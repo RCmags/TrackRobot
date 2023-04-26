@@ -25,4 +25,4 @@ Below is the small tracked robot built for this sketch:
 <img src = "/images/inclined_plane.gif" width = "30%"> <img src = "/images/disturbance.gif" width = "30%"> <img src = "/images/zip_zag.gif" width = "30%">
 </p>
 
-See this video: [functionality and performance of autonomous tracked robot](https://www.youtube.com/watch?v=VYhLW5owS3A&t=3s)
+See this video: [functionality and performance of an autonomous tracked robot](https://www.youtube.com/watch?v=VYhLW5owS3A&t=3s)
